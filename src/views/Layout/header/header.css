@@ -1,0 +1,13 @@
+.title{
+    height: 1.8rem;
+    background-color:#FF9800;
+    width: 100%;
+    line-height: 1.8rem;
+    z-index: 1;
+    position: fixed;
+    top: 0;
+    left: 0;
+    font-size: 1rem;
+    color: aliceblue;
+    text-align: center;
+}
